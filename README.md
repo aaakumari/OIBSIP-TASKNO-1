@@ -14,7 +14,7 @@ This is a simple calculator application built using html,css and javascript.
 
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/username/calculator.git`
+1. Clone the repository: `git clone https://github.com/aaakumari/calculator.git`
 2. Open `index.html` in your web browser.
 
 ## Usage
