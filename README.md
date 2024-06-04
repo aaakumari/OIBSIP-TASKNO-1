@@ -1,5 +1,5 @@
 # OIBSIP-TASKNO-1
-CALCULATOR
+CALCULATOR:
 This is a basic calculator designed with the help of htm,css and javascript.
 features-addition
           substraction 
