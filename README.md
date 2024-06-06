@@ -20,4 +20,7 @@ This is a simple calculator application built using html,css and javascript.
 ## Usage
 1. Open the calculator in your web browser.
 2. Use the buttons to input numbers and perform calculations.
-3. Explore different features such as memory functions and scientific operations.         
+3. Explore different features such as memory functions and scientific operations.
+           
+## Screenshot
+![CALC](https://github.com/aaakumari/OIBSIP-TASKNO-1/assets/170171540/eeda1b72-3289-40fa-8500-41b05590f288)
